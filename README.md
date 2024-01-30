@@ -3,7 +3,7 @@ This is the final project which managed to get 1st place on the Goldman Sachs Wa
 Our teams consists of:
     Alp Eren Yalçın - [yalcinalp](https://github.com/yalcinalp)
     Doğancem Duran - [dogancemd](https://github.com/dogancemd)
-    Emre Geçit - gecitemre[gecitemre](https://github.com/gecitemre)
+    Emre Geçit - [gecitemre](https://github.com/gecitemre)
     Yusufhan Ali Üstün - [yusufhanali](https://github.com/yusufhanali)
 
 This is an web extension which is connected to your Jira,Google Calendar and Gmail accounts. It has 3 main functionality:
